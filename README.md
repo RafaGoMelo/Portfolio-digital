@@ -1,2 +1,2 @@
 # Portifolio-digital
-https://rafael-gomes-portifolio.netlify.app/
+https://rafael-gomes-portfolio.netlify.app/
